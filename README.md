@@ -1,4 +1,4 @@
-# Samartha Bhatt
+# Poonam Singh
 
 ## About Me
 Hello! I'm **Poonam Singh**, a passionate B.Tech Computer Science student at PSIT Kanpur. I have a strong interest in cybersecurity, software development, and emerging technologies. I believe in leveraging technology to solve real-world problems and enhance learning experiences.
