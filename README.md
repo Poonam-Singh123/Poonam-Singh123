@@ -165,24 +165,17 @@ About Me = {
 <hr>
 
 <div align="center">
-  <h3>LeetCode Stats</h3>
-  <img src="https://leetcard.jacoblin.cool/2311038_cscysIIB?theme=dark&font=Fira%20Code" />
-</div>
+<h2>🔥 GitHub Stats</h2>
 
-<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=radical&hide_border=true" />
 
-<div align="center">
-  <h2>🔥 GitHub Stats</h2>
+<br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=radical&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com/?user=Poonam-Singh123&theme=radical&hide_border=true" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://streak-stats.demolab.com?user=Poonam-Singh123&theme=radical" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=radical&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
