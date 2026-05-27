@@ -165,22 +165,25 @@ About Me = {
 <hr>
 
 <div align="center">
-<h2>🔥 GitHub Stats</h2>
+  <h2>🔥 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Poonam-Singh123&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Poonam-Singh123&theme=radical&hide_border=true" />
 
 </div>
 
 <hr>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poonam-Singh123&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://github.com/Poonam-Singh123/Poonam-Singh123/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<hr>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poonam-Singh123&theme=react-dark" />
 </div>
