@@ -20,8 +20,7 @@
 |:-----------:|:----:|
 | **Guardian-ID** | Biometric UPI Security System |
 | **DecentraShield** | Blockchain Security Platform |
-| **CPU Scheduler** | OS Scheduling Simulator |
-| **LeetCpp** | DSA Problem Solutions |
+| **AlgoAce** | DSA Problem Solutions |
 
 </div>
 
@@ -53,11 +52,115 @@ About Me = {
 <div align="center">
     <h1>Skill Set</h1>
     <h4>Crafting scalable solutions with modern technologies.</h4>
-</div>
+    <br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,html,css,react,redux,tailwind,bootstrap,mysql,mongodb,postgres,redis,nodejs,express,fastapi,docker,kubernetes,git,github,firebase,vscode,supabase" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+<br>JS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+<br>TS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+<br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+<br>CSS
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/>
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/>
+<br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+<br>Postgres
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/>
+<br>Redis
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+<br>Node
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
+<br>K8s
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/>
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
+<br>VS Code
+</td>
+</tr>
+</table>
+</div>
 
 <hr>
 
