@@ -174,15 +174,16 @@ About Me = {
 <div align="center">
   <h2>🔥 GitHub Stats</h2>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam-Singh123&theme=radical" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=radical&cache_seconds=1800" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Poonam-Singh123&theme=radical" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=radical&cache_seconds=1800" />
+
 </div>
 
 <hr>
