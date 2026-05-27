@@ -1,132 +1,101 @@
-<h1 align="center">Hi 👋, I'm Poonam Singh</h1>
-<h3 align="center">B.Tech CSE (Cyber Security) | Full Stack Developer | AI & Security Enthusiast</h3>
+<h3 align="center">
+    <samp>
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Poonam+Singh...;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+        </a>
+    </samp>
+</h3>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Poonam-Singh123&label=PROFILE%20VIEWS&color=7ed321&style=flat" />
+</div>
+
+<hr>
+
+<div align="center">
+
+| Project | Description |
+|:-----------:|:----:|
+| **Guardian-ID** | Biometric UPI Security System |
+| **DecentraShield** | Blockchain Security Platform |
+| **CPU Scheduler** | OS Scheduling Simulator |
+| **LeetCpp** | DSA Problem Solutions |
+
+</div>
+
+<hr>
 
 <p align="center">
-  <a href="mailto:2k23.cscys.2312542@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/poonam-singh023">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://leetcode.com/2312542">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
+    <a href="https://www.linkedin.com/in/poonam-singh023/">
+        <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" />
+    </a>
+    <a href="mailto:2k23.cscys.2312542@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
----
+<hr>
 
-## 🚀 About Me
-
-```cpp
-class PoonamSingh {
-public:
-    string role = "Software Developer";
-    string education = "B.Tech CSE (Cyber Security) @ PSIT";
-    float cgpa = 8.49;
-
-    vector<string> interests = {
-        "Full Stack Development",
-        "Cyber Security",
-        "AI/ML",
-        "Problem Solving"
-    };
-};
+```js
+About Me = {
+"Computer Science student specializing in Cyber Security.",
+"Passionate about Full Stack Development and Problem Solving.",
+"Experienced in Python, FastAPI, Flutter, OpenCV, Firebase, Supabase.",
+"Focused on building secure and scalable systems.",
+"Currently solving LeetCode and building impactful projects. ✨"
+}
 ```
 
-- 🎓 B.Tech CSE (2023–2027)
-- 🔐 Passionate about Cybersecurity & Secure Systems
-- 💻 Solved **650+ DSA problems**
-- 🏆 Qualified **GATE 2026 (CS & IT)**
-- ⭐ 1500+ GitHub Contributions
-- 🌱 Currently building **AI-driven secure applications**
+<hr>
 
----
+<div align="center">
+    <h1>Skill Set</h1>
+    <h4>Crafting scalable solutions with modern technologies.</h4>
+</div>
 
-# 🛠️ Skill Set
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,html,css,react,redux,tailwind,bootstrap,mysql,mongodb,postgres,redis,nodejs,express,fastapi,docker,kubernetes,git,github,firebase,vscode,supabase" />
+</p>
 
-### Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+<hr>
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css)
+<div align="center">
+  <h3>LeetCode Stats</h3>
+  <img src="https://leetcard.jacoblin.cool/2311038_cscysIIB?theme=dark&font=Fira%20Code" />
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+<hr>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
 
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam-Singh123&theme=radical" />
+  
+  <br><br>
 
-# 🔥 Featured Projects
+  <img src="https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=radical" />
 
-## 🔐 Guardian-ID
-**Biometric UPI Security System**
+  <br><br>
 
-- Face Recognition Authentication
-- Gaze-based Liveness Detection
-- FastAPI + Flutter
-- AES + JWT + HMAC Security
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=radical" />
+</div>
 
----
+<hr>
 
-## 🛡️ DecentraShield
-Integrated Cybersecurity Toolkit
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poonam-Singh123&theme=react-dark" />
+</div>
 
-- Vulnerability Assessment
-- Packet Analysis
-- Penetration Testing Modules
+<hr>
 
----
+<div align="center">
+  <img src="https://github.com/Poonam-Singh123/Poonam-Singh123/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
-## 🌍 Air Quality Prediction
+<hr>
 
-ML-powered pollution forecasting system
-
-- Regression Models
-- NLP Optimization
-- 98% prediction efficiency
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Poonam-Singh123&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Poonam-Singh123&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam-Singh123&layout=compact&theme=tokyonight)
-
----
-
-# 💻 LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/2312542?theme=dark&font=baloo)
-
----
-
-# 🏆 Achievements
-
-- ✅ Qualified **GATE 2026**
-- ⭐ **5★ HackerRank**
-- 💻 Solved **650+ DSA Problems**
-- 🚀 Built production-level secure applications
-
----
-
-# 📈 Contribution Graph
-
-![Snake animation](https://github.com/Poonam-Singh123/Poonam-Singh123/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<h3 align="center">✨ “Building secure solutions for a smarter digital future.” ✨</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thankyou%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20secure%20systems!&descAlignY=90&descSize=16" />
+</div>
