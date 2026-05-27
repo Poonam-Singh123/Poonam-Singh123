@@ -171,19 +171,6 @@ About Me = {
 
 </div>
 
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poonam-Singh123&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<hr>
-
-<div align="center">
-  <img src="https://github.com/Poonam-Singh123/Poonam-Singh123/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-<hr>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poonam-Singh123&theme=react-dark" />
 </div>
